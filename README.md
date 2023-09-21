@@ -28,7 +28,7 @@ Changes includes changing most "div" tags into semantic tags such as "header", "
 
 Link to repo: [GitHub Repo](https://github.com/Jasony95/horiseon-sample-html)
 
-Link to GitHub Pages: [GitHub Pages]()
+Link to GitHub Pages: [GitHub Pages](https://jasony95.github.io/horiseon-sample-html/)
 
 ## Table of Contents
 
